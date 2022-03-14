@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148140749605",
+    "firebase_url": "https://friendebts-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "friendebts",
+    "storage_bucket": "friendebts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148140749605:android:97dd42f05df09ce038a0cc",
+        "android_client_info": {
+          "package_name": "com.friendebts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148140749605-ot1gdn1ven3tnl9ge3tgu098d5ak7i2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_e_nkWgbqtzIANnBpv8S_68yQDZV8cG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148140749605-ot1gdn1ven3tnl9ge3tgu098d5ak7i2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
